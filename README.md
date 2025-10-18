@@ -44,15 +44,3 @@ After successful emulation:
 ### Security Considerations
 This is a legitimate security research tool. Use only in controlled environments with proper authorization.
 
-## 5. Compilation and Execution Instructions
-
-### Building the DLL:
-1. Install MinGW-w64 for Windows
-2. Navigate to the `monitor_dll` directory
-3. Run: `make`
-
-### Running the Emulation:
-```cmd
-# Run as Administrator
-python emulator.py
-```
